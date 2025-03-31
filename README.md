@@ -10,15 +10,15 @@ Created by Divine Ciroma.
 
 Before you begin, ensure you have the following:
 
-AWS Account: Sign up for an AWS account[https://signin.aws.amazon.com/signup?request_type=register].
+AWS Account: Sign up for an [AWS account](https://signin.aws.amazon.com/signup?request_type=register).
 
-AWS CLI: Install and configure the AWS Command Line Interface[https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html].
+AWS CLI: Install and configure the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html).
 
-Node.js and npm: Download and install Node.js[https://nodejs.org/en/download].
+Node.js and npm: Download and install [Node.js](https://nodejs.org/en/download).
 
 Git: Get comfortable with git.
 
-GitHub Account: Create a GitHub account[https://github.com/]
+GitHub Account: Create a [GitHub account](https://github.com/)
 
 # Getting Started
 
